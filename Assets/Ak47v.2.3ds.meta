@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: ca0ad278fbb3da7419a0ec2afdb6bc0b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barrel
+    100004: BarrelB
+    100006: Bolt
+    100008: Box
+    100010: Front Sigh
+    100012: Grip
+    100014: Handel
+    100016: Magazine
+    100018: Middle
+    100020: Midgrip
+    100022: Rear Sight
+    100024: Screw
+    100026: 'Selective '
+    100028: Stock
+    100030: Top
+    100032: Top Middle
+    100034: Trigger
+    100036: Trigger Ga
+    400000: //RootNode
+    400002: Barrel
+    400004: BarrelB
+    400006: Bolt
+    400008: Box
+    400010: Front Sigh
+    400012: Grip
+    400014: Handel
+    400016: Magazine
+    400018: Middle
+    400020: Midgrip
+    400022: Rear Sight
+    400024: Screw
+    400026: 'Selective '
+    400028: Stock
+    400030: Top
+    400032: Top Middle
+    400034: Trigger
+    400036: Trigger Ga
+    2300000: Barrel
+    2300002: BarrelB
+    2300004: Bolt
+    2300006: Box
+    2300008: Front Sigh
+    2300010: Grip
+    2300012: Handel
+    2300014: Magazine
+    2300016: Middle
+    2300018: Midgrip
+    2300020: Rear Sight
+    2300022: Screw
+    2300024: 'Selective '
+    2300026: Stock
+    2300028: Top
+    2300030: Top Middle
+    2300032: Trigger
+    2300034: Trigger Ga
+    3300000: Barrel
+    3300002: BarrelB
+    3300004: Bolt
+    3300006: Box
+    3300008: Front Sigh
+    3300010: Grip
+    3300012: Handel
+    3300014: Magazine
+    3300016: Middle
+    3300018: Midgrip
+    3300020: Rear Sight
+    3300022: Screw
+    3300024: 'Selective '
+    3300026: Stock
+    3300028: Top
+    3300030: Top Middle
+    3300032: Trigger
+    3300034: Trigger Ga
+    4300000: Handel
+    4300002: Middle
+    4300004: Barrel
+    4300006: Top
+    4300008: Top Middle
+    4300010: Stock
+    4300012: Magazine
+    4300014: Front Sigh
+    4300016: Trigger Ga
+    4300018: 'Selective '
+    4300020: Screw
+    4300022: Rear Sight
+    4300024: Trigger
+    4300026: Midgrip
+    4300028: Grip
+    4300030: BarrelB
+    4300032: Bolt
+    4300034: Box
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
